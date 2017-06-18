@@ -4,8 +4,8 @@
 # inspired from slim theme by Johannes Winkelmann
 
 # Messages (ie: shutdown)
-msg_color               #000000
-msg_font                ProggySquareTT:size=16:bold:dpi=75
+msg_color               #FFFFFF
+msg_font                ProggySquareTT:size=24:dpi=75
 msg_x                   50%
 msg_y                   40%
 #msg_shadow_color #FFFFFF
@@ -21,11 +21,11 @@ input_panel_x           50%
 input_panel_y           50%
 input_name_x            59
 input_name_y            161
-input_font              Sans:size=12:dpi=75
+input_font              ProggySquareTT:size=16:dpi=75
 input_fgcolor           #000000
 
 # Username / password request
-username_font           ProggyTinyTT:size=16:bold:dpi=75
+username_font           ProggySquareTT:size=24:dpi=75
 username_color          #000000
 username_x              50%
 username_y              122
