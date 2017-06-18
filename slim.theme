@@ -1,7 +1,6 @@
-# SpaceFun theme for SLIM
-# by Yves-Alexis Perez <corsac@debian.org>
-# using artwork from Valessio S Brito <valessio at debianart.org>
-# inspired from slim theme by Johannes Winkelmann
+# FlatSlim theme for SLIM
+# by Lumaio <https://lumaio.club>
+# using SpaceFun as a base
 
 # Messages (ie: shutdown)
 msg_color               #FFFFFF
